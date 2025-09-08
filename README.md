@@ -1,7 +1,7 @@
 
 ##  **Project Overview**
 
-This repository contains a reproduction of **Figure 3** from the SPARKS paper: *"Expressive latent embeddings and state-of-the-art prediction from somatosensory cortex data" using NWB dataset from the monkey Han. The analysis demonstrates SPARKS' superiority over control models in predicting monkey hand position from neural activity in the somatosensory cortex.
+This repository contains a reproduction of **Figure 3** from the SPARKS paper: A Biologically Inspired Attention Model for Neural Signal Analysis by Skatchkovsky et al. 2024, using NWB dataset from the monkey Han. The analysis demonstrates SPARKS' superiority over control models in predicting monkey hand position from neural activity in the somatosensory cortex.
 
 ##  **Key Results**
 
